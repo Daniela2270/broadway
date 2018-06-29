@@ -18,6 +18,17 @@ h3 {
   font-weight: bold;
 }
 
+a {
+  color: white;
+}
+
+footer {
+  font-size: 11px;
+  text-align: left;
+  color: white;
+  background-color: dimgray;
+}
+
 .navigation {
   font-size: 18px;
 }
@@ -29,4 +40,8 @@ h3 {
 .header {
   background-image: url(images/the-flatiron-building.png);
   color: white;
+}
+
+#navigation {
+  font-size: 18px;
 }
